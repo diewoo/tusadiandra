@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tusadiandra/static/css/main.0410c637.chunk.css",
+    "main.js": "/tusadiandra/static/js/main.df94b136.chunk.js",
+    "main.js.map": "/tusadiandra/static/js/main.df94b136.chunk.js.map",
+    "runtime-main.js": "/tusadiandra/static/js/runtime-main.868accdd.js",
+    "runtime-main.js.map": "/tusadiandra/static/js/runtime-main.868accdd.js.map",
+    "static/js/2.d014e299.chunk.js": "/tusadiandra/static/js/2.d014e299.chunk.js",
+    "static/js/2.d014e299.chunk.js.map": "/tusadiandra/static/js/2.d014e299.chunk.js.map",
+    "index.html": "/tusadiandra/index.html",
+    "precache-manifest.b60d13369f865545e10f1ccfc0f5b12e.js": "/tusadiandra/precache-manifest.b60d13369f865545e10f1ccfc0f5b12e.js",
+    "service-worker.js": "/tusadiandra/service-worker.js",
+    "static/css/main.0410c637.chunk.css.map": "/tusadiandra/static/css/main.0410c637.chunk.css.map",
+    "static/js/2.d014e299.chunk.js.LICENSE": "/tusadiandra/static/js/2.d014e299.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.868accdd.js",
+    "static/js/2.d014e299.chunk.js",
+    "static/css/main.0410c637.chunk.css",
+    "static/js/main.df94b136.chunk.js"
+  ]
+}
